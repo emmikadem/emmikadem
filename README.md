@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading more
 - 🌱 I’m currently learning to code and write books
 - 💞️ I’m looking to collaborate on poems
-- 📫 How to reach me ...
+- 📫 Sorry, but you can't reach me.
 
 <!---
 emmikadem/emmikadem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
